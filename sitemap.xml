@@ -1,38 +1,158 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.flaggeek.net/2024/02/wwii-post-era-red-ensign-red-duster.html</loc>
-    <lastmod>2025-06-10</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.flaggeek.net/2024/05/south-korean-war-flag.html</loc>
-    <lastmod>2025-06-10</lastmod>
+    <loc>http://www.flaggeek.net/</loc>
+    <lastmod>2025-06-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.flaggeek.net/2024/07/white-ensign-wwii-era.html</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2024-07-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/05/south-korean-war-flag.html</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/wwii-post-era-red-ensign-red-duster.html</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/multi-piecve.html</loc>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.flaggeek.net/2024/02/the-fake-flags.html</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.flaggeek.net/2024/02/wwii-multi-piecve.html</loc>
-    <lastmod>2025-06-10</lastmod>
+    <loc>https://www.flaggeek.net/2024/02/japanese-flag-in-box.html</loc>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.flaggeek.net/2024/02/wwii-service-state-flag.html</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2024-06-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/british-made-wwii-soviet-flagbanner.html</loc>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/german-imperial-battle-flag.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/48-stars-us-wwii-flag.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/small-nazi-banner.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/german-100x170-kriegsmarine-flag.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/used-nato-flag-slavic-war.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/ukrainian-flag-signed-by-soldiers.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/ww2-signed-japanese-flag.html</loc>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.flaggeek.net/2024/02/signed-kriegsmarine-flag.html</loc>
+    <lastmod>2024-11-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/kriegsmarine-flag-signed-by-us-soldiers.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/flag-database_22.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/flag-sizes.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/imperial-german-sturm-flag.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/reichskriegsflagge-ubergangsmodell.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/weimar-republic-naval-ensign.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/manufacture-labels.html</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/p/privacy-policy.html</loc>
+    <lastmod>2024-02-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.flaggeek.net/2024/02/the-fake-flags.html?showComment=1748796977787#c2098410420677463402</loc>
+    <lastmod>2025-06-02</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>

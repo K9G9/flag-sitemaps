@@ -1,2 +1,2 @@
 # flag-sitemaps
-Sitemaå.xml
+Sitemap.xml

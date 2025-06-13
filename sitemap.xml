@@ -156,4 +156,28 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
-<url><loc>https://www.flaggeek.net/p/reichskriegsflagge-transitional-alter.html</loc><lastmod>2025-06-12</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url><url><loc>https://www.flaggeek.net/p/wassersportflagge-germany-ca-19351936.html</loc><lastmod>2025-06-13</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url><url><loc>https://www.flaggeek.net/p/small-water-sports-nazi-flag.html</loc><lastmod>2025-06-13</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url></urlset>
+<url>
+    <loc>https://www.flaggeek.net/p/reichskriegsflagge-transitional-alter.html</loc>
+    <lastmod>2025-06-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/wassersportflagge-germany-ca-19351936.html</loc>
+    <lastmod>2025-06-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/small-water-sports-nazi-flag.html</loc>
+    <lastmod>2025-06-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/kriegsmarine-war-ensign-100-170-cm-ca.html</loc>
+    <lastmod>2025-06-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+    </urlset>

@@ -222,4 +222,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+<url>
+    <loc>hhttps://www.flaggeek.net/p/reichskriegsflagge-kriegsmarine-version.html</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
     </urlset>

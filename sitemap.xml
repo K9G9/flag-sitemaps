@@ -186,6 +186,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+<url>
+    <loc>https://www.flaggeek.net/2025/06/weimar-reichskriegsflagge-bootsflg-95.html</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -315,6 +321,12 @@
 <url>
     <loc>https://www.flaggeek.net/p/reichskriegsflagge-kriegsmarine-version.html</loc>
     <lastmod>2025-06-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/weimar-reichskriegsflagge-bootsflg-95.html</loc>
+    <lastmod>2025-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

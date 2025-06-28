@@ -204,6 +204,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+<url>
+    <loc>https://www.flaggeek.net/2025/06/transitional-reichskriegsflagge-with.html</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -344,6 +350,12 @@
 </url>
 <url>
     <loc>https://www.flaggeek.net/p/reichskriegsflagge-krfl-80-135-lorenz.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/reichskriegsflagge-transitional-variant.html</loc>
     <lastmod>2025-06-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>

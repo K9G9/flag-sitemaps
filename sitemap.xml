@@ -210,6 +210,18 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+<url>
+    <loc>https://www.flaggeek.net/2025/07/captured-reichskriegsflagge-middelburg.html</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/2025/07/rare-colonial-ensign-from-imperial.html</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -357,6 +369,18 @@
 <url>
     <loc>https://www.flaggeek.net/p/reichskriegsflagge-transitional-variant.html</loc>
     <lastmod>2025-06-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/imperial-german-colonial-flag-ca.html</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/kriegsmarine-reichskriegsflagge.html</loc>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

@@ -228,6 +228,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+<url>
+    <loc>https://www.flaggeek.net/2025/07/massive-kriegsmarine-jack-flag.html</loc>
+    <lastmod>2025-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -392,6 +398,12 @@
 </url>
 <url>
     <loc>https://www.flaggeek.net/p/kriegsmarine-gosch-50-85-cm.html</loc>
+    <lastmod>2025-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/gosch-buntstoff-berlin-300-500-cm.html</loc>
     <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>

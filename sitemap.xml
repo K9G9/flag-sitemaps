@@ -241,6 +241,12 @@
     <priority>0.8</priority>
 </url>
   <url>
+    <loc>https://www.flaggeek.net/2025/07/modified-nsb-flag-with-post-war.html</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+  <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
     <changefreq>yearly</changefreq>
@@ -417,6 +423,12 @@
 <url>
     <loc>https://www.flaggeek.net/p/early-nato-flag-german-production-ca.html</loc>
     <lastmod>2025-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+  <url>
+    <loc>https://www.flaggeek.net/p/modified-nsb-related-flag-netherlands.html</loc>
+    <lastmod>2025-07-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

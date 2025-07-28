@@ -264,6 +264,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+          <url>
+    <loc>https://www.flaggeek.net/2025/07/large-wwii-era-german-flag-with.html</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -462,9 +468,15 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
-        <url>
+<url>
     <loc>https://www.flaggeek.net/p/45-star-us-ensign-likely-navy-issued-c.html</loc>
     <lastmod>2025-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.flaggeek.net/p/fg-030-german-tricolour-flag-wool-c.html</loc>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

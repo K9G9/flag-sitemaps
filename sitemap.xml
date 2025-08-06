@@ -283,6 +283,12 @@
     <priority>0.8</priority>
 </url>
   <url>
+    <loc>https://www.flaggeek.net/2025/07/iraqi-baathist-flag-with-allahu-akbar.html</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+  <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
     <changefreq>yearly</changefreq>
@@ -501,6 +507,12 @@
   <url>
     <loc>https://www.flaggeek.net/p/german-empire-flag-ca-late-1930s.html</loc>
     <lastmod>2025-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+    <url>
+    <loc>https://www.flaggeek.net/p/iraqi-baathist-flag-gulf-war-ca-19912003.html</loc>
+    <lastmod>2025-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

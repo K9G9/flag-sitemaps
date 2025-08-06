@@ -300,6 +300,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+      <url>
+    <loc>https://www.flaggeek.net/2025/08/german-service-flag-by-schneider-nossen.html</loc>
+    <lastmod>2025-08-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -344,7 +350,7 @@
   </url>
   <url>
     <loc>https://www.flaggeek.net/p/flag-database_22.html</loc>
-    <lastmod>2025-07-24</lastmod>
+    <lastmod>2025-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -536,6 +542,12 @@
 </url>
       <url>
     <loc>https://www.flaggeek.net/p/usa-48-star-flag-defiance-brand-19421943.html</loc>
+    <lastmod>2025-08-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+      <url>
+    <loc>https://www.flaggeek.net/p/german-service-state-flag-schneider.html</loc>
     <lastmod>2025-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>

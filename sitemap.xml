@@ -324,6 +324,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+      <url>
+    <loc>https://www.flaggeek.net/2025/08/reichskriegsflagge-hoisted-at-la.html</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -356,7 +362,7 @@
   </url>
   <url>
     <loc>https://www.flaggeek.net/p/manufacture-labels.html</loc>
-    <lastmod>2025-07-24</lastmod>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -585,6 +591,12 @@
           <url>
     <loc>https://www.flaggeek.net/p/fg-039-soviet-naval-ensign-59-99-cm-1979.html</loc>
     <lastmod>2025-08-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+            <url>
+    <loc>https://www.flaggeek.net/p/fg-040-reichskriegsflagge-hoisted-at-la.html</loc>
+    <lastmod>2025-08-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

@@ -360,6 +360,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+                <url>
+    <loc>https://www.flaggeek.net/2025/09/imperial-german-war-ensign-bonner.html</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -651,6 +657,12 @@
                   <url>
     <loc>https://www.flaggeek.net/p/fg-044-interwar-imperial-german-war.html</loc>
     <lastmod>2025-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+                    <url>
+    <loc>https://www.flaggeek.net/p/fg-045-imperial-german-war-ensign.html</loc>
+    <lastmod>2025-09-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

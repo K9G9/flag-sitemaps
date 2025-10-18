@@ -384,6 +384,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+                        <url>
+    <loc>https://www.flaggeek.net/2025/10/union-flag-admiralty-broad-arrow-issue.html</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -699,6 +705,12 @@
                           <url>
     <loc>https://www.flaggeek.net/p/fg-050-signed-imperial-japanese-flag.html</loc>
     <lastmod>2025-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+                            <url>
+    <loc>https://www.flaggeek.net/p/fg-051-union-flag-admiralty-broad-arrow.html</loc>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

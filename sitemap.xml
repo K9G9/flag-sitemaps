@@ -18,6 +18,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+    <url>
+    <loc>https://www.flaggeek.net/2024/02/wwii-post-era-red-ensign-red-duster.html</loc>
+    <lastmod>2025-06-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.flaggeek.net/2024/02/multi-piecve.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -405,6 +411,12 @@
                               <url>
     <loc>https://www.flaggeek.net/2025/10/confederate-southern-cross-flag-printed.html</loc>
     <lastmod>2025-10-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+                                <url>
+    <loc>https://www.flaggeek.net/2025/11/imperial-german-naval-jack.html</loc>
+    <lastmod>2025-11-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>

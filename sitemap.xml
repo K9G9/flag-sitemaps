@@ -450,6 +450,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
+                                            <url>
+    <loc>https://www.flaggeek.net/2026/07/signed-iraqi-operation-iraqi-freedom.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
   <url>
     <loc>https://www.flaggeek.net/p/german-admiral-flag-flottenstab-usage.html</loc>
     <lastmod>2025-06-11</lastmod>
@@ -494,7 +500,7 @@
   </url>
   <url>
     <loc>https://www.flaggeek.net/p/flag-database_22.html</loc>
-    <lastmod>2026-03-21</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -831,6 +837,12 @@
                                             <url>
     <loc>https://www.flaggeek.net/p/fotw-image-search.html</loc>
     <lastmod>2026-06-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+                                              <url>
+    <loc>https://www.flaggeek.net/p/fg-061-signed-operation-iraqi-freedom.html</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
 </url>
